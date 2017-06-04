@@ -11,6 +11,7 @@ namespace Test1
         public void hello()
         {
             Console.WriteLine("hello chinese");
+            //重新更爱
         }
     }
 }
