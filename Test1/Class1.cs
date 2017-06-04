@@ -8,5 +8,9 @@ namespace Test1
 {
     class Class1
     {
+        public void hello()
+        {
+            Console.WriteLine("Helloworld");
+        }
     }
 }
